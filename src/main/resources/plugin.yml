@@ -1,0 +1,5 @@
+name: JSCraft
+version: ${project.version}
+main: co.untitled.jscraft.JSCraft
+api-version: 1.16
+load: STARTUP
